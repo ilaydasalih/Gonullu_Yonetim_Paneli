@@ -1,0 +1,74 @@
+{
+    "uyeler": [
+        {
+            "ad": "İlayda S.",
+            "kayit_tarihi": "2026-02-23"
+        },
+        {
+            "ad": "Zeynep A.",
+            "kayit_tarihi": "2026-02-23"
+        },
+        {
+            "ad": "Rana A.",
+            "kayit_tarihi": "2026-02-23"
+        },
+        {
+            "ad": "Kemal K.",
+            "kayit_tarihi": "2026-02-23"
+        },
+        {
+            "ad": "Simge E.",
+            "kayit_tarihi": "2026-02-23"
+        },
+        {
+            "ad": "Fadile Y.",
+            "kayit_tarihi": "2026-02-23"
+        }
+    ],
+    "gorevler": [
+        {
+            "baslik": "Sosyal Medya Yöneticisi",
+            "sorumlu": "İlayda S.",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        },
+        {
+            "baslik": "Yönetim Kurulu ",
+            "sorumlu": "Zeynep A.",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        },
+        {
+            "baslik": "Yönetim Kurulu",
+            "sorumlu": "Rana A.",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        },
+        {
+            "baslik": "Yönetim Kurulu",
+            "sorumlu": "Kemal K.",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        },
+        {
+            "baslik": "Organizasyon",
+            "sorumlu": "Simge E.",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        },
+        {
+            "baslik": "Sponsorluk",
+            "sorumlu": "Fadile Y",
+            "durum": "Devam Ediyor",
+            "tarih": "2026-02-23"
+        }
+    ],
+    "toplantilar": [
+        {
+            "konu": "Yeni Dönem Organızasyon Planlamaları",
+            "tarih": "29.02.2026",
+            "saat": "20.00",
+            "olusturma_tarihi": "2026-02-23 15:58:28.164326"
+        }
+    ]
+}
